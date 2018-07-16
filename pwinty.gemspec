@@ -20,5 +20,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rake"
   s.add_development_dependency "test-unit"
   s.add_development_dependency "dotenv"
-  s.add_runtime_dependency "rest-client", '~> 1.8'
+  s.add_runtime_dependency "rest-client", '~> 1.6.7'
 end
